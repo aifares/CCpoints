@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "fastify": "^4.10.2",
+    "nodemon": "^2.0.20",
+    "puppeteer": "^19.3.0",
+    "puppeteer-cmp-clicker": "^1.0.3",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  },
+  "type": "commonjs"
+}
